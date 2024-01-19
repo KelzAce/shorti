@@ -1,6 +1,4 @@
 
-Certainly! Here's a basic documentation for your URL shortening service:
-
 URL Shortening Service Documentation
 Overview
 This documentation provides information about the URL shortening service implemented in this project. The service allows users to generate short URLs for their long URLs and retrieve analytics for a given short URL.
